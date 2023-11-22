@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f284b55c-f16b-4f94-953f-473b1ac84197" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../907bfcde4aae1492860236693abed9fc_dc6f934e4bf13e9176e7310302ff6817_8.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Pzb4kB642jGKNTK69H2jzrhN6s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BaiduSyncdisk/InvNet-master/调参程序&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaiduSyncdisk\InvNet-master\调参程序" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rov\Desktop\InvNet-master\训练" />
+      <recent name="C:\Users\Rov\Desktop\InvNet-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.GA">
+    <configuration name="GA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InvNet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\hard\anaconda\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="InvNet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\hard\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adjust_kTT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InvNet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\server\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/调参程序" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/调参程序/adjust_kTT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inputwrite_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InvNet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\hard\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/调参程序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/调参程序/inputwrite_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="map_kp1_kp2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InvNet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\hard\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/调参程序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/调参程序/map_kp1_kp2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InvNet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\hard\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/调参程序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/调参程序/plot_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GA" />
+        <item itemvalue="Python.map_kp1_kp2" />
+        <item itemvalue="Python.inputwrite_csv" />
+        <item itemvalue="Python.adjust_kTT" />
+        <item itemvalue="Python.plot_1 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f284b55c-f16b-4f94-953f-473b1ac84197" name="更改" comment="" />
+      <created>1684462668980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684462668980</updated>
+      <workItem from="1684462670250" duration="1267000" />
+      <workItem from="1684737215715" duration="1405000" />
+      <workItem from="1684738683173" duration="4865000" />
+      <workItem from="1684744868505" duration="453000" />
+      <workItem from="1684898003162" duration="4870000" />
+      <workItem from="1684918101777" duration="2506000" />
+      <workItem from="1684922085186" duration="852000" />
+      <workItem from="1684922977393" duration="1517000" />
+      <workItem from="1684924628687" duration="1056000" />
+      <workItem from="1684926392381" duration="972000" />
+      <workItem from="1684928941269" duration="941000" />
+      <workItem from="1684929951242" duration="132000" />
+      <workItem from="1684930093697" duration="60000" />
+      <workItem from="1684930162423" duration="417000" />
+      <workItem from="1685064709046" duration="1506000" />
+      <workItem from="1685700177513" duration="5116000" />
+      <workItem from="1685708146372" duration="70000" />
+      <workItem from="1685708225058" duration="842000" />
+      <workItem from="1685709938920" duration="1324000" />
+      <workItem from="1685711517283" duration="961000" />
+      <workItem from="1685939597568" duration="1048000" />
+      <workItem from="1685940664651" duration="6574000" />
+      <workItem from="1686016546231" duration="1297000" />
+      <workItem from="1686037381858" duration="132000" />
+      <workItem from="1686037904699" duration="4253000" />
+      <workItem from="1686043156883" duration="2438000" />
+      <workItem from="1686056332849" duration="2225000" />
+      <workItem from="1686058725746" duration="468000" />
+      <workItem from="1686109440454" duration="7140000" />
+      <workItem from="1686116687777" duration="13203000" />
+      <workItem from="1686133821461" duration="3682000" />
+      <workItem from="1686205652131" duration="2241000" />
+      <workItem from="1686209234752" duration="1296000" />
+      <workItem from="1686212352586" duration="3423000" />
+      <workItem from="1686313640348" duration="1762000" />
+      <workItem from="1686362640856" duration="2831000" />
+      <workItem from="1686722590926" duration="1222000" />
+      <workItem from="1686724200270" duration="6039000" />
+      <workItem from="1686795635075" duration="1172000" />
+      <workItem from="1686800475892" duration="2190000" />
+      <workItem from="1686832881429" duration="12650000" />
+      <workItem from="1686992789342" duration="9611000" />
+      <workItem from="1687072335640" duration="1659000" />
+      <workItem from="1687076758450" duration="8149000" />
+      <workItem from="1687163055955" duration="2192000" />
+      <workItem from="1687165292129" duration="8651000" />
+      <workItem from="1687243365957" duration="1602000" />
+      <workItem from="1687246662375" duration="1668000" />
+      <workItem from="1687415305669" duration="18767000" />
+      <workItem from="1687659880002" duration="167000" />
+      <workItem from="1687660055630" duration="5947000" />
+      <workItem from="1688047322873" duration="750000" />
+      <workItem from="1688101866840" duration="2121000" />
+      <workItem from="1688107607747" duration="2503000" />
+      <workItem from="1688134905907" duration="969000" />
+      <workItem from="1688798387311" duration="208000" />
+      <workItem from="1688798602050" duration="6805000" />
+      <workItem from="1688817076614" duration="8129000" />
+      <workItem from="1688888635306" duration="643000" />
+      <workItem from="1688889469013" duration="5592000" />
+      <workItem from="1688901582031" duration="5321000" />
+      <workItem from="1689047993169" duration="4000" />
+      <workItem from="1689080339067" duration="3546000" />
+      <workItem from="1689221077652" duration="7959000" />
+      <workItem from="1689260973139" duration="5035000" />
+      <workItem from="1689304443264" duration="1242000" />
+      <workItem from="1689390227183" duration="3000" />
+      <workItem from="1689779425395" duration="3007000" />
+      <workItem from="1690450393708" duration="3348000" />
+      <workItem from="1690515140780" duration="632000" />
+      <workItem from="1691397868435" duration="7406000" />
+      <workItem from="1691670351402" duration="19054000" />
+      <workItem from="1692276300967" duration="732000" />
+      <workItem from="1692280278342" duration="9159000" />
+      <workItem from="1692434510274" duration="17364000" />
+      <workItem from="1692806895298" duration="4931000" />
+      <workItem from="1693555615371" duration="1547000" />
+      <workItem from="1694509005343" duration="15777000" />
+      <workItem from="1694697402804" duration="14000" />
+      <workItem from="1694701037983" duration="239000" />
+      <workItem from="1695119904808" duration="16000" />
+      <workItem from="1695119926893" duration="5000" />
+      <workItem from="1695120001821" duration="23375000" />
+      <workItem from="1695271233184" duration="2000" />
+      <workItem from="1695637950632" duration="1764000" />
+      <workItem from="1695639810176" duration="111000" />
+      <workItem from="1695639926086" duration="140000" />
+      <workItem from="1695640218324" duration="1074000" />
+      <workItem from="1695641376836" duration="6078000" />
+      <workItem from="1695647718710" duration="1928000" />
+      <workItem from="1695782056078" duration="5879000" />
+      <workItem from="1696248863039" duration="1257000" />
+      <workItem from="1696251708925" duration="8558000" />
+      <workItem from="1696414292402" duration="8864000" />
+      <workItem from="1696593941584" duration="1796000" />
+      <workItem from="1696948274733" duration="3781000" />
+      <workItem from="1697455899625" duration="5188000" />
+      <workItem from="1698065322444" duration="1385000" />
+      <workItem from="1698125568517" duration="21730000" />
+      <workItem from="1698305241291" duration="6012000" />
+      <workItem from="1698889598890" duration="55000" />
+      <workItem from="1698891869680" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rl_output_test_py$rl_output_test.coverage" NAME="rl_output_test 覆盖结果" MODIFIED="1695640023293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/强化学习" />
+    <SUITE FILE_PATH="coverage/Yo_ADAM_Optuna_1_ipynb$AI_with_mu.coverage" NAME="AI_with_mu 覆盖结果" MODIFIED="1684898489034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Verification_VQsweep_py$rl_test.coverage" NAME="rl_test 覆盖结果" MODIFIED="1691400182773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/强化学习" />
+    <SUITE FILE_PATH="coverage/Verification_VQsweep_py$test_104201.coverage" NAME="test_104201 覆盖结果" MODIFIED="1692596090506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Yo_ADAM_Optuna_1_ipynb$test_matplotlib.coverage" NAME="test_matplotlib 覆盖结果" MODIFIED="1687244476026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Yo_FNN_ADAM_ipynb$.coverage" NAME=" 覆盖结果" MODIFIED="1686130457137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transfer learning" />
+  </component>
+</project>
